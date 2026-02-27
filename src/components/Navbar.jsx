@@ -12,16 +12,16 @@ function Navbar() {
         <nav
             style={{
                 display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    padding: "15px 30px",
-    background: "rgba(255,255,255,0.05)",
-    backdropFilter: "blur(10px)",
-    borderBottom: "1px solid rgba(255,255,255,0.1)",
-    position: "sticky",
-    top: 0,
-    zIndex: 1000
-                
+                justifyContent: "space-between",
+                alignItems: "center",
+                padding: "15px 30px",
+                background: "rgba(255,255,255,0.05)",
+                backdropFilter: "blur(10px)",
+                borderBottom: "1px solid rgba(255,255,255,0.1)",
+                position: "sticky",
+                top: 0,
+                zIndex: 1000
+
             }}
         >
             <h2>K.CHANDU</h2>
